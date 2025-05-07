@@ -8,7 +8,7 @@ from pydub.playback import play
 
 # ElevenLabs API setup (Replace 'YOUR_API_KEY' with your actual API key)
 ELEVENLABS_API_KEY = "sk_e3bbbd9c1f1fdb9205d36bfa08ccbfce77caf0d80e729ab8"
-ELEVENLABS_VOICE_ID = "EXAVITQu4vr4xnSDxMaL"  # Change to preferred voice ID
+ELEVENLABS_VOICE_ID = "1IKFHYNOx19byU4ttgkR"  # Change to preferred voice ID
 
 def extract_text_from_pdf(pdf_file):
     """Extracts text from an uploaded PDF file."""
