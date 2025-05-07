@@ -1,3 +1,4 @@
 PyMuPDF>=1.22.0
 requests>=2.25.1
 pydub>=0.25.1
+ffmpeg-python>=0.2.0
